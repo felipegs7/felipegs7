@@ -32,6 +32,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=museu-virtual&theme=radical" />
 </a>
 
+>  **Art on Water** – Artes digitais realistas inspiradas na água.
+
+<a href="https://github.com/felipegs7/Art-on-water">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegs7&repo=Art-on-water&theme=radical" />
+</a>
 ---
 
 ###  Estatísticas
